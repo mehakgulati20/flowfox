@@ -1,0 +1,9 @@
+id,name,kind,is_default,created_at
+1,Groceries,expense,1,2025-08-11T23:57:31.739701
+2,Utilities,expense,1,2025-08-11T23:57:31.742005
+3,Rent,expense,1,2025-08-11T23:57:31.743509
+4,Restaurants,expense,1,2025-08-11T23:57:31.744819
+5,Shopping,expense,1,2025-08-11T23:57:31.746076
+6,Other Activities,expense,1,2025-08-11T23:57:31.747317
+7,Salary,income,1,2025-08-11T23:57:31.749822
+8,Emergency Fund,savings,1,2025-08-11T23:57:31.751397
